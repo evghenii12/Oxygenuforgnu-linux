@@ -7,3 +7,5 @@ To launch this u need to click on wine apps after taskmgr in taskmgr click file 
 
 If something don't work u can tell me in issues.
 
+Executor binary files are in archive /bin/Debug/
+
